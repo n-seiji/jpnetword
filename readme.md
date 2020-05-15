@@ -1,8 +1,9 @@
 Networds are divided into two categories, the New Sementic Word(語義追加タイプ) and the New Blend Word(新語タイプ).
 
 Check Methods:
+================================================================================
 
-1.fork による clone する
+**1.fork による clone する**
 
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/fork.png)
 
@@ -17,16 +18,27 @@ Branchで、「culab」にチェンジしてください。
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/change%20branch.png)
 
 
-2.Excel
+**2.Excel**
 
 文の中でネット用語ではない場合は、左のチェックボックスをチェックしてください（☑）。
 
 このネット用語の全てのツイートを検査した後、「メニュー」シートで左のチェックボックスをチェックしてください（☑）。
 
 
-3.チェックした後、ファイルをpullしてください。
+**3.チェックした後、修正されたファイルをcommit changes and push  してください。**
 
-Pull Request:
+  3.1「Github.exe」の場合、
+![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/commit.png)
+  
+![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/push.png)
+
+  3.2　Gitコマンドの場合、
+  '''
+  $ git commit -m "modify file" 
+  $ git push
+  '''
+
+**4.Pull Request:**
 
 click button
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/pull%20request1.png)
