@@ -9,14 +9,13 @@ Check Methods:
 
 自分のrepositoryを作成してください。
 
-![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/fork%20result.png)
+![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/forkresult.png)
 
 
 Branchで、「culab」にチェンジしてください。
 
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/change%20branch.png)
 
-チェックした後、ファイルをpullしてください。
 
 2.Excel
 
@@ -24,15 +23,19 @@ Branchで、「culab」にチェンジしてください。
 
 このネット用語の全てのツイートを検査した後、「メニュー」シートで左のチェックボックスをチェックしてください（☑）。
 
+
+3.チェックした後、ファイルをpullしてください。
+
 Pull Request:
 
+click button
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/pull%20request1.png)
 
-
+create pull request
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/pull%20request2.png)
 
-
+pull successfully
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/pull%20request3.png)
 
-
+when the administer agree merge pull， you can see
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/success.png)
