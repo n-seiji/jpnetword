@@ -28,14 +28,24 @@ Branchで、「culab」にチェンジしてください。
 **3.チェックした後、修正されたファイルをcommit changes and push  してください。**
 
   3.1「Github.exe」の場合、
+  
+  
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/commit.png)
+  
   
 ![Image text](https://github.com/cloudest-y/jpnetword/blob/master/img/push.png)
 
   3.2　Gitコマンドの場合、
+  
   '''
+  
+  
   $ git commit -m "modify file" 
+  
+  
   $ git push
+  
+  
   '''
 
 **4.Pull Request:**
